@@ -45,7 +45,7 @@
 		"@keplr-wallet/unit": "0.9.0-alpha.8",
 		"@tippyjs/react": "^4.2.5",
 		"autoprefixer": "^10.2.5",
-		"axios": "^0.21.1",
+		"axios": "^0.34.0",
 		"big.js": "^6.0.3",
 		"buffer": "^6.0.3",
 		"clsx": "^1.1.1",
@@ -137,7 +137,7 @@
 		"webpack": "^4.46.0",
 		"webpack-bundle-analyzer": "^4.4.0",
 		"webpack-cli": "^3.3.7",
-		"webpack-dev-server": "^3.8.2",
+		"webpack-dev-server": "^5.2.6",
 		"write-file-webpack-plugin": "^4.5.1",
 		"ws": "^7.4.5"
 	},
